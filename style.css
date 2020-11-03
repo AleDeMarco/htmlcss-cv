@@ -1,0 +1,43 @@
+/* tag */
+body{
+  box-sizing: border-box;
+  width: 1000px;
+  margin: 10px auto;
+  border-style: outset;
+  padding: 5px;
+}
+header{
+  background-color: lightgrey;
+  text-align: center;
+  border-bottom: orange solid 5px;
+}
+
+main{
+  margin: 0px 10px;
+}
+
+h2{
+  color: orange;
+}
+
+h3{
+  font-style: italic;
+}
+
+hr{
+  background: orange;
+  height: 2px;
+}
+
+/* class */
+.copyright{
+  margin: 10px;
+}
+
+/* id */
+#propic{
+  height: 200px;
+  padding: 5px 0px;
+  border: black dashed 3px;
+  margin-top: 10px;
+}
